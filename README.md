@@ -87,6 +87,13 @@ I wrote personal notes across the notebooks in all three modules rather than kee
 
 The notebooks are intended to show the reasoning behind the examples, not just their final output. My notes capture questions, observations, and explanations that I found useful while learning each concept.
 
+## Personal Notes
+
+I also made personal notes while watching the KodeKloud videos and completing the KodeKloud labs. These notes are available in the [`notes/`](C:/Users/tjmja/Documents/Projects/langchain-practice/notes) folder and can be previewed as HTML here:
+
+- [LangChain notes](https://htmlpreview.github.io/?https://github.com/electrum21/langchain-practice/blob/main/notes/langchain-notes.html)
+- [LangGraph notes](https://htmlpreview.github.io/?https://github.com/electrum21/langchain-practice/blob/main/notes/langgraph-notes.html)
+
 ## Repository Structure
 
 The main learning material is organized by module:
